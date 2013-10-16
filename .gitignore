@@ -3,3 +3,6 @@ OldVersions
 photos
 build-log
 lockfile.lck
+*.b#*
+*.s#*
+*.pro
